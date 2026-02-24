@@ -1,12 +1,7 @@
-<style>
-  text{
-  color: green;
-  }
-</style>
-
-<body>Hi there! I'm Erick Correia Padilha, student of SESISENAI, I'm the last year of the school.
+![ ](MyiaMU.gif)
+# Hi there! I'm Erick Correia Padilha, student of SESISENAI, I'm the last year of the school.
 I'm Studying to be a awesome programmer in the future!<br>
-<h1>I'm studying:</h1> <br>
+# I'm studying: <br>
 <img 
   align ="left"
   alt = "HTML"
@@ -31,13 +26,17 @@ I'm Studying to be a awesome programmer in the future!<br>
   width ="40px"
   style = "padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg"
-    /> <p><strong>System Modeling</strong></p>  <br><br>
-  <div class="UsedDay">
-    <h1>O que eu uso no dia a dia</h1>
-      <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img align="center" alt="aseprite" src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)" />
-  </div>
-</body>
+    /> <p><strong>System Modeling</strong></p><br><br>
+   
+  <h1>What I use every day</h1>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align="center" alt="aseprite" src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E" /><br>
+
+<h1>Contacts</h1>
+
+My Gmail -> [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)]([https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlFDPlmphCpMRMgzzRMNfvxQrBCKjQSsXXPkkXQjrNcCxpJCmqVzNGKtrxljCCkXgsphGq](https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCFTJWtJQvLcTjqLfcnqHJpMtKdkRwmmQXKRVqgvTTKShcDBRxCwCpHPBrbWwlnVLgdCGq)) <br/>
+
+  
 <!--
 **erickpadilha-afk/erickpadilha-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
