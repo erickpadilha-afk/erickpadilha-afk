@@ -9,7 +9,7 @@ I'm Studying to be a awesome programmer in the future!<br>
   width ="40px"
   style = "padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-  /> <p><strong>HTML</strong></p>
+  />
 <img 
   align ="left"
   alt = "DATABASE"
@@ -17,7 +17,7 @@ I'm Studying to be a awesome programmer in the future!<br>
   width ="40px"
   style = "padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"        
-  /> <p><strong>Database</strong></p>
+  />
 
   <img
   align ="left"
@@ -26,8 +26,8 @@ I'm Studying to be a awesome programmer in the future!<br>
   width ="40px"
   style = "padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg"
-    /> <p><strong>System Modeling</strong></p><br><br>
-   
+    />
+   <br>
   <h1>What I use every day</h1>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="aseprite" src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E" /><br>
