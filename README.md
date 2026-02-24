@@ -34,7 +34,7 @@ I'm Studying to be a awesome programmer in the future!<br>
 
 <h1>Contacts</h1>
 
-My Gmail -> [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)]([https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlFDPlmphCpMRMgzzRMNfvxQrBCKjQSsXXPkkXQjrNcCxpJCmqVzNGKtrxljCCkXgsphGq](https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCFTJWtJQvLcTjqLfcnqHJpMtKdkRwmmQXKRVqgvTTKShcDBRxCwCpHPBrbWwlnVLgdCGq)) <br/>
+My Gmail -> [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCFTJWtJQvLcTjqLfcnqHJpMtKdkRwmmQXKRVqgvTTKShcDBRxCwCpHPBrbWwlnVLgdCGq) <br/>
 
   
 <!--
