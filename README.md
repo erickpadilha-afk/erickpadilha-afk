@@ -1,4 +1,5 @@
-<img scr="MyiaMU.gif" width="1000" height="500" />
+<img src="skeleton-dancing.gif" width="1200" height="600" />
+
 
 # Hi there! I'm Erick Correia Padilha, student of SESISENAI, I'm the last year of the school.
 I'm Studying to be a awesome programmer in the future!<br>
