@@ -1,4 +1,4 @@
-<img src="omedetou-congratulations.gif" width="1200" height="600" />
+<img src="lilith.gif" width="1200" height="600" />
 
 
 # Hi there! I'm Erick Correia Padilha, student of SESISENAI, I'm the last year of the school.
